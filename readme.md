@@ -1,9 +1,11 @@
 # 区块链共享员工管理系统（EMS）
-
-移动前端 Demo地址： http://123.56.86.151:8085/ 
-
 github 地址:  https://github.com/sunyd1006/N13-996fly 
 
+demo视频下载地址（github不支持在线观看）：https://github.com/sunyd1006/N13-996fly/blob/master/demo_ppt/demo.mp4
+
+demo视频在线观看地址（b站等待审核通过中）：审核成功后更改
+
+移动前端 Demo地址： http://123.56.86.151:8085/ 
 
 
 ## 区块链共享员工管理系统是什么？
