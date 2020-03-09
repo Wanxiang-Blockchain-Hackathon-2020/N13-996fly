@@ -3,9 +3,7 @@ github 地址: https://github.com/sunyd1006/N13-996fly
 
 demo视频下载地址（github不支持在线观看）：https://github.com/sunyd1006/N13-996fly/blob/master/demo_ppt/demo.mp4
 
-demo视频在线观看地址（b站等待审核通过中）：
-- 地址1：http://114.55.144.141:6789/file.mp4
-- B站地址2：审核成功后更改
+demo视频在线观看地址：https://www.bilibili.com/video/av94607531?pop_share=1
 	
 移动前端 Demo地址： http://123.56.86.151:8085/
 
@@ -70,9 +68,7 @@ github 地址: https://github.com/sunyd1006/N13-996fly
 
 demo视频下载地址（github不支持在线观看）：https://github.com/sunyd1006/N13-996fly/blob/master/demo_ppt/demo.mp4
 
-demo视频在线观看地址（b站等待审核通过中）：
-- 地址1：http://114.55.144.141:6789/file.mp4
-- B站地址2：审核成功后更改
+demo视频在线观看地址：https://www.bilibili.com/video/av94607531?pop_share=1
 	
 移动前端 Demo地址： http://123.56.86.151:8085/
 
